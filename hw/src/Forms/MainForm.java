@@ -1,14 +1,4 @@
 
-/*
- *
- *  Copyright (C) 2019.  PSEU - Palestine Polytechnic University - All Rights Reserved
- *  * SPDX-License-Identifier: Apache-2.0
- *
- */
-
-/*
- * Created by Basel.Altamimi on 8/4/2019.
- */
 
 package Forms;
 
